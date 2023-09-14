@@ -185,6 +185,7 @@ footer p {
 footer .copyright a {
   text-decoration: none;
   color: #f0faff;
+  cursor: pointer;
 }
 
 .logo-text {
